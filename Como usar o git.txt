@@ -1,0 +1,43 @@
+Como subir uma pasta pro github?
+
+-git init : cria uma pasta com as configurações do git
+no diretório escolhido. 
+
+-git status : checa o que você está fazendo ou o que está 
+acontecendo
+
+-git add "documento.txt" : prepara documento.txt para ser
+enviado
+
+-git add . : prepara todos os documentos para serem comitados
+enviados
+
+-git commit -m " mensagem" : cria uma nova versão do código, ou
+seja, commit, com uma mensagem "mensagem" 
+
+-git remote add origin: endereço web do seu repositório
+
+-git push --set-upstream origin master: enviar o código para o github 
+na branch master 
+
+Como adcionar novas atualizações do código? 
+
+-git status
+-git add .
+-git status (para confirmar) 
+-git commit -m "descriçã do que você fez" 
+-git push 
+-enter
+
+Como verificar o histórico da versões 
+
+-git reflog
+
+Como voltar para uma versão anterior ? 
+
+-git reset --hard 'id': Volta para versão do id selecionado
+
+
+
+
+
