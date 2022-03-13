@@ -46,5 +46,14 @@ Como ver as branches disponíveis?
 -git checkout branch2 : muda o diretório da branch master para 
 a branch2 
 
+- git push --set-upstream origin branch2: manda pro github
+
+
+O que é merge? 
+
+trazer as atualizações de uma branch secundária para branch principal.
+
+
+
 
 
