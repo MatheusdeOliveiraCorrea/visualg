@@ -37,7 +37,14 @@ Como voltar para uma versão anterior ?
 
 -git reset --hard 'id': Volta para versão do id selecionado
 
+Como ver as branches disponíveis? 
 
+-git branch: lista as branches disponíveis 
+
+-git branch branch2 : cria uma nova branch chamada "branch2" 
+
+-git checkout branch2 : muda o diretório da branch master para 
+a branch2 
 
 
 
