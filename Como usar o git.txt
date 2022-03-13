@@ -54,6 +54,21 @@ O que é merge?
 trazer as atualizações de uma branch secundária para branch principal.
 
 
+Como fazer um merge? 
+
+Antes de tudo: 
+-git pull: puxar do servidor todas atualizações ( caso o trabalho seja em grupo) 
+
+Com o seguinte comando 
+
+-git merge branch2 
+
+O que vai estar puxando os arquivos da branch2 para branch atual selecionada
+pelo comando git checkout. Nesse caso:
+
+master = branch2; 
+
+master receber branch2; 
 
 
 
